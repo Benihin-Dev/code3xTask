@@ -19,6 +19,10 @@ code {
     source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
 }
 
+.body-bg {
+  background-color: #fefefe;
+}
+
 .bg-primary {
   background-color: #9fd094;
 }
@@ -29,4 +33,12 @@ code {
 
 .text-primary {
   color: #9fd094;
+}
+
+.bg-themeBlack {
+  background-color: #010101;
+}
+
+.text-themeBlack {
+  color: #010101;
 }
